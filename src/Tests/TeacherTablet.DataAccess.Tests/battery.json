@@ -1,0 +1,16 @@
+[
+  {
+    "academyId": 30021,
+    "batteryLevel": 0.5,
+    "employeeId": "T1008245",
+    "serialNumber": "1805C67HD02232",
+    "timestamp": "2019-05-23T17:16:59.821+01:00"
+  },
+  {
+    "academyId": 30021,
+    "batteryLevel": 0.66,
+    "employeeId": "T1008287",
+    "serialNumber": "1805C67HD02064",
+    "timestamp": "2019-05-23T17:19:47.046+01:00"
+  }
+]
