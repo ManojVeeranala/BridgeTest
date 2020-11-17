@@ -24,7 +24,7 @@
 * Developed a middleware for exception handling
 * Added Open API package for api documentation
 * If any unhandled error happends, error will be logged
-* Used multi-threading for better perfoormance
+* Used multi-threading for better performance
 
 ## Room for Improvement
 
