@@ -5,7 +5,7 @@
 ### Service
 
 * Set the Json Source Path in the appsettings.json settingname: jsonDataSourcePath
-* Set the logfile folder path in nlog.coonfig in API project
+* Set the logfile folder path in nlog.config in API project
 * Set TeacherTablet.API as Startup Project in Visual Studio
 * Press F5
 * you will see the swagger page
